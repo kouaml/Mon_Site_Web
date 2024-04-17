@@ -1,14 +1,4 @@
-tmp/todo.txt
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+tmp/todo.txt 
 tmp/*
-=======
-*.txt
->>>>>>> Stashed changes
-=======
-*.txt
->>>>>>> Stashed changes
-=======
-*.txt
->>>>>>> Stashed changes
+*.xml
+
